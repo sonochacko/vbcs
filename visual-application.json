@@ -1,0 +1,13 @@
+{
+    "vbcs.dt.version": "20200707-21.01.0:20200722-bufp_41222",
+    "dependencies": {
+        "upgrade": "micro",
+        "paths": {
+            "jet": "https://static.oracle.com/cdn/jet/9.0.5",
+            "visualRuntime": "https://static.oracle.com/cdn/vb/2010.1.0"
+        }
+    },
+    "source.version": "2010",
+    "rootURL": "addinmanager",
+    "version": "0.1"
+}
